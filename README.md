@@ -1,7 +1,7 @@
 # ISHAE 128: Intersperse Substitution Harmony Assembly Encryption
 
 This was another 128-bit encryption system this time written in x86 assembly as a side project for an Assembly and Comp Org class I was taking about
-a year and a half ago. This encryption system is kind of the precursor to my ANGELITA 128-bit system. I'm sure it wouldn't hold up very 
+a year ago. This encryption system is kind of the precursor to my ANGELITA 128-bit system. I'm sure it wouldn't hold up very 
 well to any analysis done on the algorithm, as I never really tested that in the process of creating it. This project instead was mostly
 to see if I could even pull off something like this in x86 Assembly.
 
